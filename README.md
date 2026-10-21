@@ -8,8 +8,8 @@ Gosto de resolver problemas reais com código simples de manter: contas que fech
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white)
+![PPH](https://img.shields.io/badge/PHP-2D3748?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
