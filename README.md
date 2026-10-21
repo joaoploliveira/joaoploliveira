@@ -1,6 +1,6 @@
 # Olá, eu sou o João Pedro 👋
 
-**Desenvolvedor back-end** · Python · SQL (PostgreSQL, Prisma)
+**Desenvolvedor back-end** · Python · SQL
 
 Gosto de resolver problemas reais com código simples de manter: contas que fecham no centavo, protocolos de rede mais leves e servidores que gastam menos.
 
