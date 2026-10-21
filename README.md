@@ -29,6 +29,4 @@ Gosto de resolver problemas reais com código simples de manter.
 
 I'm a **back-end developer** focused on **data integration** (Python, PHP, SQL, Pentaho Data Integration). At Simova I connect ERPs such as TOTVS Protheus and SAP to the platform used by agricultural and construction machinery dealers, through REST APIs and PDI pipelines, and the data feeds their decision-making metrics.
 
-- **Open source:** multiplayer networking and server cost work on [PokéSurvivor](https://github.com/JPTER78/pokesurvivor/pulls?q=author%3Ajoaoploliveira). One example is a compact co-op protocol that is 36–64% lighter, so the same TURN server fits 1.6×–2.8× more players.
-- **[Contas em Parceria](https://github.com/joaoploliveira/contas-em-parceria):** a cost-splitting app for teams that settles debts with the fewest transfers, using dynamic programming over subsets. [Live demo](https://joaoploliveira.github.io/contas-em-parceria/?exemplo).
-- Reach me on [LinkedIn](https://www.linkedin.com/in/joaoploliveira/).
+Reach me on [LinkedIn](https://www.linkedin.com/in/joaoploliveira/).
